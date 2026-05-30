@@ -43,7 +43,7 @@ Passionate QA Engineer | Automation Tester | Selenium & Appium Enthusiast
 <p align="center">
 
 <img height="180em"
-src="<img src="https://github-readme-stats.vercel.app/api?username=ashifReza&show_icons=true&theme=github_dark"/>"/>
+src="https://github-readme-stats.vercel.app/api?username=ashifReza&show_icons=true&theme=github_dark"/>
 
 <img height="180em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashifReza&layout=compact&theme=tokyonight"/>
