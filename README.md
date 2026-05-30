@@ -38,29 +38,6 @@ Passionate QA Engineer | Automation Tester | Selenium & Appium Enthusiast
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashifReza&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashifReza&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashifReza&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ashifReza&theme=tokyonight&row=1"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
